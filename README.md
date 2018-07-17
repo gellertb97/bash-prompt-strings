@@ -18,12 +18,8 @@
 <td style="width: 323.7px;">$</td>
 </tr>
 <tr>
-<td style="width: 181.033px;">PS1='\[\e[1;34m\]$ '</td>
-<td style="width: 323.7px;"><span style="color: #3366ff;">$</span></td>
-</tr>
-<tr>
-<td style="width: 181.033px;">PS1='\u@\h \[\e[1;34m\]$ '</td>
-<td style="width: 323.7px;">user@localhost <span style="color: #3366ff;">$</span> </td>
+<td style="width: 181.033px;">PS1='\u@\h $ '</td>
+<td style="width: 323.7px;">user@localhost $ </td>
 </tr>
 </tbody>
 </table>
